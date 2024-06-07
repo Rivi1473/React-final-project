@@ -2,11 +2,11 @@
 
 **Installation and Running:**
 
-**1. Clone the repository:**
+1. Clone the repository:
 ```
 git clone https://github.com/Rivi1473/React-final-project.git
 ```
-**2. Run the projects:**
+2. Run the projects:
 -   Open the project in Visual Studio Code.
 -   Type  `npm i`  to install node_modules.
 -   Type  `npm start`  to run the application.
