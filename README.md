@@ -23,7 +23,8 @@ Option to switch between users (login, registration and logout)
 
 The main page on the website shows the products, with an option for more details for each product and filters according to minimum age and category (guest, user)
 
-![צילום מסך 2024-06-07 144519](https://github.com/Rivi1473/React-final-project/assets/144923864/48835f84-ac37-4cfc-807e-16afd3755f21)
+![צילום מסך 2024-06-07 190106](https://github.com/Rivi1473/React-final-project/assets/144923864/7199a2bb-a83c-424d-8695-d7e91f9e26c5)
+
 
 By clicking on additional details for the product, a page will open with the product details and the option to add to cart (guest, user)
 
