@@ -17,6 +17,7 @@ git clone https://github.com/Rivi1473/React-final-project.git
 - registered user
 - administrator
 Switching between user types by login, sign up and logout.
+
 Option to switch between users (login, registration and logout)
 
 
