@@ -1,0 +1,121 @@
+.product-details-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.product-image {
+    margin: auto;
+    margin-top: 10vh;
+    margin-left:20vw;
+    width: 60%;
+    
+}
+
+.product-details {
+    margin: auto;
+    margin-top: 10vh;
+    font-size: x-large;
+}
+
+.quantity-container {
+    display: flex;
+    flex-direction: column; /* זה יאמן את האלמנטים בעמודה ולא בשורה */
+    align-items: center; /* זה יכניס את האלמנטים לאמצע */
+    margin-bottom: 10px;
+}
+
+.quantity-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #ddd;
+    border: none;
+    cursor: pointer;
+}
+.quantity-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quantity-controls > * {
+    margin-right: 5px;
+}
+.quantity-button span {
+    font-size: x-large;
+}
+
+button {
+    padding: 10px 20px;
+    background-color:  #ddd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.add-to-cart-button {
+    margin-top: 10px;
+    width: 10vw;
+}
+button:hover {
+    background-color: #1976D2
+    ;
+}
+.products{
+    margin-right: 1.5vw;
+    direction: rtl;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.img{
+    height: 100 vh;
+    width: 100 vw;
+}
+
+
+.shopping-cart-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 999; 
+  
+  }
+  .grid1,.grid2 {
+    display: grid;
+    gap: 10px;
+    width: 100%;
+    margin: 0 auto;
+}
+.grid1 {
+    grid-template-columns: repeat(2, 1fr);
+}
+.grid2{
+    grid-template-columns: repeat(3, 1fr);
+}
+.full1 {
+    grid-column: 1 / span 2;
+}
+.full2 {
+    grid-column: 1 / span 3;
+}
+.half {
+    grid-column: 1/span 1.5;
+}
+.width {
+    max-width: 600px;
+    margin: 0 auto; 
+    margin-top: 8%;
+}
+.select{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.g1{
+    grid-column: 2;
+}
+.g2{
+    grid-column: 3;
+}
+

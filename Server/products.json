@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "name": "playmobile",
+    "description": "shop",
+    "imgUrl": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/v1693325083/clients/13621/f37b1a64586745e7efe89a1dbcb718d03091274e.jpg",
+    "category": "family",
+    "price": 250,
+    "qty": 20,
+    "minAge": 6
+  },
+  {
+    "id": 3,
+    "name": "playmobile",
+    "description": "pirat",
+    "imgUrl": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/v1693323015/clients/13621/28ecb951408613a9f834a5d1cc0425430c58962c.jpg",
+    "category": "Boys",
+    "price": 250,
+    "qty": 23,
+    "minAge": 0
+  },
+  {
+    "id": 4,
+    "name": "playmobile",
+    "description": "super market",
+    "category": "Young Boys",
+    "price": 150,
+    "qty": 29,
+    "minAge": 2,
+    "imgUrl": "https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/v1693325083/clients/13621/f37b1a64586745e7efe89a1dbcb718d03091274e.jpg"
+  },
+  {
+    "id": 5,
+    "name": "playmobile",
+    "description": "plane",
+    "category": "Young Boys",
+    "price": 200,
+    "qty": 40,
+    "minAge": 0,
+    "imgUrl": "https://cdn2.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/clients/13621/9c9fd7ce48b3610caac3ff0fc4eef5cfb7cc6a44.jpg"
+  },
+  {
+    "id": 6,
+    "name": "playmobile",
+    "description": "police",
+    "category": "Boys",
+    "price": 200,
+    "qty": 40,
+    "minAge": 6,
+    "imgUrl": "https://cdn2.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/clients/13621/698808631266375a45ed021115b92640c0082eb5.jpg"
+  },
+  {
+    "id": 7,
+    "name": "playmobile",
+    "description": "robot",
+    "category": "Boys",
+    "price": 300,
+    "qty": 40,
+    "minAge": 6,
+    "imgUrl": "https://cdn2.istores.co.il/image/upload/if_ar_gt_2:1/c_mpad,h_452,w_452,q_100/c_fill,h_452,w_525/if_else/c_pad,h_452,q_100,w_452/if_end/clients/13621/4133da279e3e951c6c77ee4a172417a96ac3023f.jpg"
+  },
+  {
+    "id": 7,
+    "name": "playmobile",
+    "description": "zoo",
+    "category": "Girls",
+    "price": 300,
+    "qty": 40,
+    "minAge": 6,
+    "imgUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14127838/original/fa91497e0f70b89d82b76c0252df823c.jpg"
+  },
+  {
+    "id": 7,
+    "name": "playmobile",
+    "description": "camping",
+    "category": "Girls",
+    "price": 300,
+    "qty": 40,
+    "minAge": 6,
+    "imgUrl": "https://d3m9l0v76dty0.cloudfront.net/system/photos/14131153/original/a9806e47da2826b95c7fe5c3aca3ec2c.jpg"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "firstName": "Yael",
+    "lastName": "Adler",
+    "phone": "0527618556",
+    "email": "YaelAdler@biu.ac.il",
+    "password": "1234",
+    "id": 2
+  },
+  {
+
+    "firstName": "Rivi",
+    "lastName": "Cohen",
+    "phone": "0556458954",
+    "email": "rivi@gmail.com",
+    "password": "2345",
+    "id": 1
+  },
+  {
+    "firstName": "lali",
+    "lastName": "feldman",
+    "phone": "0527618556",
+    "email": "Lali332@gmail.com",
+    "password": "1597",
+    "id": 3
+  },
+  {
+    "firstName": "Shira",
+    "lastName": "Levi",
+    "phone": "0559886545",
+    "email": "ShiraL123@gmail.com",
+    "password": "9634",
+    "id": 4
+  }
+
+]
