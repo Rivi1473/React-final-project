@@ -60,8 +60,7 @@ Viewing orders including order products (user)
 
 Products page with an option to add ,update a and delete a product (administrator)
 
-![Uploading __לכיכענדה.PNG…]()
-
+![__לכיכענדה](https://github.com/Rivi1473/React-final-project/assets/144923864/158e4d74-1ca6-419e-a9c5-014437ca74eb)
 
 Add product page (administrator)
 
